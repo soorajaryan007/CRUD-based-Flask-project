@@ -108,6 +108,3 @@ Pull requests are welcome! If you’d like to contribute, please fork the repo a
 This project is open-source under the **MIT License**.
 
 ---
-
-👉 Would you like me to also create **sample HTML templates** (`transactions.html`, `form.html`, `edit.html`) so you can run this project immediately without extra setup?
-
